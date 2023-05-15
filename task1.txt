@@ -1,0 +1,12 @@
+step 1: to clone a repo on git
+                go to git hub creat a repo {click the +}
+step 2: click on new Repo
+step 3: click on CODE and copy the code available
+step 4: go to the git bash tarminal and type in {git clone } and paste the copied code
+step 5: copy your alredy generated token and add {@} after {http//} then paste the token and hit enter
+step 6: now create a file using touch
+step 7: you add the file created to git hub using {git add .}
+step 8: you commit the file using {git commit -m the file you added send a message "add files"}
+step 9: you push to git hub using {git push}
+step 10: you go to git hub refresh to see your added :i:file.
+
